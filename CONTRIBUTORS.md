@@ -38,3 +38,8 @@
 - Bio: Student of IIIT allahbad,
 - GitHub: [sneha1010](https://github.com/sneha1010)
 
+#### Name: Simon Schindlatz
+- Place: Bavaria, Germany
+- Bio: Web-Developer
+- GitHub: [Simon](https://github.com/SimonUR)
+
