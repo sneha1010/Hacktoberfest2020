@@ -65,6 +65,4 @@
 - GitHub: [heyoitsJuice](https://github.com/heyoitsJuice)
 
 #### Name: Simon Schindlatz
-- Place: Bavaria, Germany
-- Bio: Web-Developer
-- GitHub: [Simon](https://github.com/SimonUR)
+- Place Bavaria, Germany
